@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\bin\Debug\TrackerFrontEnd.exe.config
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\bin\Debug\TrackerFrontEnd.exe
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\bin\Debug\TrackerFrontEnd.pdb
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.Properties.Resources.resources
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.TournamentViewerForm.resources
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.exe
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.pdb
