@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\bin\Debug\TrackerFrontEnd.exe.config
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\bin\Debug\TrackerFrontEnd.exe
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\bin\Debug\TrackerFrontEnd.pdb
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.CreatePrizeLabel.resources
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.CreateTeamForm.resources
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.CreateTournamentForm.resources
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.Properties.Resources.resources
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.TournamentDashBoardForm.resources
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.TournamentViewerForm.resources
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.exe
+C:\Users\User\Desktop\Tournament Tracker\Tournament-Tracker\TournamentTracker\TrackerFrontEnd\obj\Debug\TrackerFrontEnd.pdb
