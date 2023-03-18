@@ -21,5 +21,10 @@ namespace TrackerFrontEnd
         {
 
         }
+
+        private void prizesLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

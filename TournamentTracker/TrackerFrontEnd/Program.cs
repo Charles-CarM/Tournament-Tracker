@@ -20,3 +20,27 @@ namespace TrackerFrontEnd
         }
     }
 }
+
+    //Relationships FK ----> PK
+
+/* TournamentsEntries ------> Tournaments &&
+ * TournamentPrizes -------> Tournaments &&
+ * TournamentPrizes -------> Prizes &&
+ * TournamentsEntries -----> Teams &&
+ * TeamMembers -----> Teams &&
+ * TeamMembers -----> People &&
+ * Matchups -----> Teams &&
+ * MatchupEntries ------> Matchups &&
+ * MatchupEntries ------> Teams &&
+ */
+
+    //Stored Procedures
+
+/* spMatchupEntries_GetByMatchup
+ * spMatchups_GetByTournament
+ * spPeople_GetAll
+ * spPrizes_GetByTournament
+ * spTeam_GetByTournament
+ * spTeamMembers_GetByTeam
+ * spTournaments_GetAll
+ */
